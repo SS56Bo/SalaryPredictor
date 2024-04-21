@@ -1,0 +1,5 @@
+Imagine you are the recruiter in a Tech company and have been running it for 1 year, but now as the workload has increased, you need new programmers, as the number of tasks increase, you are going to require more people joining.
+
+So, you take a candidate who aces his interview, however as you are in your salary negotiation stage, the candidate asks for 10L as salary. Being inexperienced, you realize that you have no idea how to approach your problem.
+
+So, this is a model predicting salary that feeds experince and salary in a supervised model and it delivers the amount of salariy one truly deserves, 
